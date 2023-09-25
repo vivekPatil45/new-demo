@@ -1,2 +1,2 @@
-Author - Daksh Gehlot
-CODING CLUB NMIMS X GDSC RCPIT
+# Author - Vivek Patil
+## Hello 
